@@ -16,13 +16,13 @@ Tech Stack:
 
 Projects:
 
-AI-Companions-App
+AI-Companions-App:
 [GitHub Repo](https://github.com/dogleading/ai-companions-app)
 Simple web app for creating and chatting with custom AI companions mainly for eductional purposes.
 Users can choose a between a variety of subjects, create a new AI companion and chat with him via voice modality
 Built with Next.js, Postgresql, Vapi, Clerk and Tailwind CSS.
 
-E-commerce Webapp-
+E-commerce Webapp:
 Live demo: https://ecommerce-nextjs-app-phi.vercel.app
 
 [GitHub Repo](https://github.com/dogleading/ecommerce-nextjs-app)
